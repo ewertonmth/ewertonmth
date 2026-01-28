@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ewerton Matheus
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web`**
 
 👋 Olá! Eu sou o Ewerton Matheus
 Sou desenvolvedor com formação técnica em desenvolvimento de sistemas, apaixonado por tecnologia, programação e robótica.  
@@ -54,13 +54,6 @@ Trabalho com projetos web e soluções interativas, sempre buscando código limp
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ewertonmth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
