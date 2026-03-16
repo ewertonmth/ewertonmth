@@ -5,7 +5,7 @@
 👋 Olá! Eu sou o Ewerton Matheus.
 Tenho formação técnica em Desenvolvimento de Sistemas e estou direcionando minha carreira para Quality Assurance, com foco em garantir a qualidade, confiabilidade e bom funcionamento de aplicações web.
 
-💻 Meu background em desenvolvimento (JavaScript, TypeScript, React, Next.js) me ajuda a entender melhor o comportamento dos sistemas e identificar possíveis falhas.
+💻 Meu background em desenvolvimento (JavaScript, TypeScript) me ajuda a entender melhor o comportamento dos sistemas e identificar possíveis falhas.
 
 🤖 Também atuo em projetos de robótica educacional (FIRST Tech Challenge), contribuindo com desenvolvimento técnico, documentação e trabalho em equipe.
 
